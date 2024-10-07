@@ -40,16 +40,16 @@ en: &DEFAULT_EN
   
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "고양이는 야옹야옹"
+    text: "고양이 거기 들어가면 안되요"
+    body: "고양이 거기 들어가면 안되요 고양이 그긋은 아따 거기를 고양이 고양이"
     section: about
 
   
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
